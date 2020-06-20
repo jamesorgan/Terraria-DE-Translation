@@ -1,5 +1,7 @@
 World Generation text
 Loading Tips
+	UI:
+"Block Swap on"
 	Items:
 MagicConch
 OrangeZapinator
