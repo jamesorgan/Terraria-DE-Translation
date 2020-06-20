@@ -1,0 +1,14 @@
+World Generation text
+Loading Tips
+	Items:
+MagicConch
+OrangeZapinator
+ChickenNugget
+GoldenKey
+TerrasparkBoots
+Märchenzauber
+"Can be worn in vanity slots"
+All new boss drops
+TreasureMagnet
+FinchStaff
+Old God event items
