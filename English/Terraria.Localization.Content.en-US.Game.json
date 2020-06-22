@@ -2015,7 +2015,7 @@
 		"npc_QueenSlimeMinionPurple": "Crystal slimes on the purple spectrum grow wings much like their royal creator, becoming aerial threats.",
 		"npc_EmpressButterfly": "Should one of these luminescent beings perish in the chaos of night, a sleeping tyrant is rumored to violently awaken.",
 	},
-		"CreativePowers": {
+	"CreativePowers": {
 		"InfiniteItemSacrificeShortDescription": "Researching <item name> will consume it",
 		"ConfirmInfiniteItemSacrifice": "Research",
 		"ItemWasJustUnlockedInfinitely": "Once enough of <item name> is researched, it will be available infinitely!",
