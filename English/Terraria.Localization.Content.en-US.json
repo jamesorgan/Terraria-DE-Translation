@@ -850,7 +850,6 @@
 		"4": "Land of the Moon",
 		"5": "Working Ant's Nest"
 	},
-	
 	"RandomWorldName_Composition": {
 		"1": "The {Adjective} {Location} of {Noun}",
 		"2": "The {Adjective} {Location} of {Noun}",
@@ -862,7 +861,7 @@
 		"8": "{Location} of {Noun}"
 	},
 	"RandomWorldName_Adjective": {
-"Abandoned": "Abandoned",
+		"Abandoned": "Abandoned",
 		"Abhorrent": "Abhorrent",
 		"Abusive": "Abusive",
 		"Adorable": "Adorable",
@@ -2636,7 +2635,6 @@
 		"Zombies": "Zombies",
 		"Zoomers": "Zoomers"
 	},
-
 	"RichPresence": {
 		"Spaghet": "Cooking Spaghet",
 		"InMainMenu": "In Main Menu",
@@ -2645,7 +2643,6 @@
 		"PlayingSingle": "Playing Single-Player",
 		"PlayingMulti": "Playing Multi-Player"
 	},
-
 	"AssetRejections" : {
 		"BadSize": "Textures loaded must match the original size, got ({ActualWidth},{ActualHeight}) but expected ({NeededWidth}, {NeededHeight}).",
 		"BadExtension": "Only textures of type '.png' and '.xnb' may be loaded."
