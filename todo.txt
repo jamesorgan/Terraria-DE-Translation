@@ -16,3 +16,4 @@ FinchStaff
 Tungsten bullet
 Old God event items
 Spectre hood says +40% damage instead of -40%
+Flairon "Ziellenkblasen"
