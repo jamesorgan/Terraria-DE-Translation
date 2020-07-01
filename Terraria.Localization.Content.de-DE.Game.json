@@ -1483,7 +1483,7 @@
 		"npc_GemBunnyDiamond": "{$CommonBestiaryFlavor.GemBunny}",
 		"npc_GemBunnyAmber": "{$CommonBestiaryFlavor.GemBunny}"
 	},
-	/* Just started */"Bestiary_BiomeText": {
+	/* Done and needs checking */"Bestiary_BiomeText": {
 		"biome_Goblins": "A ragtag army of crude, barbaric goblins set out to conquer and destroy. Some wield dark, evil magic.",
 		"biome_Goblins": "Ein lumpige Armee von barbarische Goblins die erobern und zerstören wollen. Manche Goblins haben böse Magie.",
 		"biome_Pirates": "A seafaring horde of armed bandits that lust after the riches of the land, collecting treasures and taking no prisoners.",
@@ -1594,28 +1594,28 @@
 		"biome_NightTime": "After 7:30pm, the moon rises in the sky. All manner of evil things, living and dead, roam the lands in the dark.",
 		"biome_NightTime": "Nach 7:30 Uhr, der Mond geht auf. Alle Arten von böse Dingen ob lebendig oder tot wandern herum.",
 	},
-	"CreativePowers": {
-		"InfiniteItemSacrificeShortDescription": "Researching <item name> will consume it",
+	/* Done and needs checking */"CreativePowers": {
+		"InfiniteItemSacrificeShortDescription": "Forschung von <item name> wird es verbrauchen",
 		"ConfirmInfiniteItemSacrifice": "Forschen",
-		"ItemWasJustUnlockedInfinitely": "Once enough of <item name> is researched, it will be available infinitely!",
+		"ItemWasJustUnlockedInfinitely": "Wenn genug von <item name> geforschen ist, es wird unendlich verfügbar!",
 		"InfiniteItemsCategoryClosed": "Öffnen Verdoppelung-Menü",
 		"InfiniteItemsCategoryOpened": "Schließen Verdoppelung-Menü",
-		"InfiniteItemsCategory": "Research Infinite Items",
+		"InfiniteItemsCategory": "Forschen unendliche Gegenstände",
 
 		"ResearchItemsCategoryClosed": "Öffnen Forschen-Menü",
 		"ResearchItemsCategoryOpened": "Schließen Forschen-Menü",
 
-		"InfinitePlacementRange_Disabled": "Normal Placement Range",
-		"InfinitePlacementRange_Enabled": "Erhöht Placement Range",
+		"InfinitePlacementRange_Disabled": "Normale Einbaureichweite",
+		"InfinitePlacementRange_Enabled": "Erhöhte Einbaureichweite",
 
-		"StopBiomeSpread_Disabled": "Infection Spread Aktiv",
-		"StopBiomeSpread_Enabled": "Infection Spread Inaktiv",
+		"StopBiomeSpread_Disabled": "Infektionausbreitung Spread Aktiv",
+		"StopBiomeSpread_Enabled": "Infektionausbreitung Inaktiv",
 
-		"DifficultySlider_Closed": "Öffnen Gegnerschwierigkeit Slider",
-		"DifficultySlider_Opened": "Schließen Enemy Difficulty Slider",
+		"DifficultySlider_Closed": "Öffnen Gegnerschwierigkeitschieberegler",
+		"DifficultySlider_Opened": "Schließen Gegnerschwierigkeitschieberegler",
 
-		"NPCSpawnRateSlider_Closed": "Öffnen Enemy Spawn Rate Slider",
-		"NPCSpawnRateSlider_Opened": "Schließen Enemy Spawn Rate Slider",
+		"NPCSpawnRateSlider_Closed": "Öffnen Monsterspawnrateschieberegler",
+		"NPCSpawnRateSlider_Opened": "Schließen Monsterspawnrateschieberegler",
 
 		"PowersMenuOpen": "Schließen Kraft-Menü",
 		"PowersMenuClosed": "Öffnen Kraft-Menü",
@@ -1690,5 +1690,5 @@
 		"Sort_Alphabetical": "Name",
 		"CantUsePowerBecauseOfNoPermissionFromServer": "You have no permission for this power"
 	}
-/* Missing from this file are "CommonBestiaryFlavor" "Bestiary_FlavorText" "CreativePowers" */
+/* Missing from this file are "CommonBestiaryFlavor" "Bestiary_FlavorText" */
 }
